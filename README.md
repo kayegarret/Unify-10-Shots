@@ -2,7 +2,7 @@
 
 Hello Unify, welcome to my project!
 
-REALLY MADE IN UNDER 3 HOURS AS REQUESTED (please forgive the lack of attention to detail)
+ACTUALLY MADE IN UNDER 3 HOURS AS REQUESTED (please forgive the lack of attention to detail)
 
 As requested, I have made an app that takes 10 pictures of you using the front camera, and haved stored them localy using an Apple API known as 'UserDefaults'. Due to the time constraint I am afraid I may have made a bit of a mess of things in the code and it may be hard to follow since I did not want to spend all my time commenting things, but I tried to make it as elegant as possible. Also the user interface could use a bit of a face lift, but it does get the job done.
 
